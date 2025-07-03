@@ -1,0 +1,17 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #0f3057;
+  color: white;
+  text-align: center;
+}
+canvas {
+  background: linear-gradient(#d2b48c 0% 30%, #228B22 30% 100%);
+  border: 5px solid blue;
+  margin: 20px auto;
+  display: block;
+}
+#metrics {
+  font-size: 18px;
+  margin-top: 10px;
+}
