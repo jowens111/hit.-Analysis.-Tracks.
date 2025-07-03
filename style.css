@@ -4,14 +4,18 @@ body {
   background-color: #0f3057;
   color: white;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 canvas {
-  background: linear-gradient(#d2b48c 0% 30%, #228B22 30% 100%);
-  border: 5px solid blue;
-  margin: 20px auto;
+  background-color: #87ceeb;
   display: block;
+  margin: 0 auto;
+  border: 5px solid #000080;
 }
 #metrics {
+  background: #002244;
+  padding: 10px;
   font-size: 18px;
   margin-top: 10px;
 }
